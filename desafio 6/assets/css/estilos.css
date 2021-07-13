@@ -1,0 +1,13 @@
+.foto-producto{
+
+   position: relative; 
+}
+
+.icono{
+position: absolute;
+width: 4%;
+top: 160px;
+left: 163px;
+z-index: 1;
+
+}

@@ -1,0 +1,16 @@
+.foto-producto{
+
+position: relative;
+
+
+}
+
+.oferta{
+
+   position: absolute;
+   left: 520px; 
+}
+
+.contenedor{
+    text-align: center;
+}
